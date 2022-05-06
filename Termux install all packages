@@ -1,0 +1,6 @@
+Termux install all packages 
+1. termux-setup-storage ( For Storage permission  )
+2. apt update && apt upgrade ( For updating packages )
+3.apt install git ( for Downloading tools )
+4.apt-get install zip && apt-get install unzip ( For Zip files )
+5.apt install python && apt install python2 ( For installing python )
